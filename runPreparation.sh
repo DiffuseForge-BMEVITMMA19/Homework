@@ -1,0 +1,1 @@
+python preparations.py > /output/output.log
